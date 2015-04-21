@@ -1,0 +1,9 @@
+module boost_optional {
+  header "boost/none_t.hpp"
+  header "boost/none.hpp"
+  header "boost/optional/optional_io.hpp"
+  header "boost/optional/optional_fwd.hpp"
+  header "boost/optional/bad_optional_access.hpp"
+  header "boost/optional/optional.hpp"
+  header "boost/optional.hpp"
+}
